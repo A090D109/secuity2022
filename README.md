@@ -1,1 +1,1 @@
-# secuity2022
+# security2022
